@@ -16,6 +16,7 @@ includeBuild("implementations/fabric-1.20")
 
 includeBuild("implementations/forge-1.17.1")
 includeBuild("implementations/forge-1.18.1")
+includeBuild("implementations/forge-1.19.2")
 includeBuild("implementations/forge-1.19.4")
 includeBuild("implementations/forge-1.20")
 
